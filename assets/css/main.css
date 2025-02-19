@@ -4906,3 +4906,10 @@ input.main-search-input::placeholder {
   height: auto;
 }
 }/*# sourceMappingURL=main.css.map */
+
+.whatsapp {
+  position: fixed;
+  right: 2%;
+  bottom: 13%;
+  z-index: 99;
+}
