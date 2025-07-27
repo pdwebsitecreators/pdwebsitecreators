@@ -4917,6 +4917,9 @@ input.main-search-input::placeholder {
   color:#000;
 }
 
-.content .h3{
+.service-box-items .content h3>*{
+  color:#000;
+}
+.service-box-items .content p{
   color:#000;
 }
